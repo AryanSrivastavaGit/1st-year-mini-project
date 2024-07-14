@@ -1,1 +1,2 @@
-count prime and composite.py, this folder contain a python code which can count the number of prime and composite numbers between the two numbers entered by user. 1st semester project.
+# count prime and composite.py, 
+This file contains a Python code that can count the number of prime and composite numbers between the two numbers entered by the user.
