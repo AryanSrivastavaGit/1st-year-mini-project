@@ -1,2 +1,2 @@
-# count prime and composite.py, 
-This file contains a Python code that can count the number of prime and composite numbers between the two numbers entered by the user.
+# Description of the file above.
+This Python program counts and displays the prime and composite numbers within a user-specified range [x,y].
